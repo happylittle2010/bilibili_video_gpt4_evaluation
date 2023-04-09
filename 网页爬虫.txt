@@ -1,0 +1,147 @@
+现在我有一个网页，https://www.shicimingju.com/chaxun/zuozhe/77.html，网页分为了多页，每页都显示有一些诗。
+
+显示诗的部分的源码如下：
+
+------------
+\<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
+    <script src="https://img.shicimingju.com/newpage/js/all.js"></script>
+    <meta charset="UTF-8">
+    <title>李清照的诗词全集、诗集(88首全)_诗词名句网</title>
+    <meta name="viewport" content="width=device-width,user-scalable=no" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://img.shicimingju.com/public/css/www_v3.css">
+    <link rel="stylesheet" href="https://img.shicimingju.com/public/css/font_576092_m2icqcebp7evzpvi.css">
+    <script src="https://img.shicimingju.com/public/js/device.js"></script>
+    <script src="https://img.shicimingju.com/public/js/jq.js"></script>
+    <script src="https://img.shicimingju.com/public/js/www_v3.js"></script>
+</head>
+<body>
+<div id="top_bar">
+    <div id="top_bar_main">
+        <div id="top_left">
+            <a href="/"><img src="https://img.shicimingju.com/public/image/logo.png" id="logo"/></a>
+            <div id="top_left_menu">
+                <ul>
+                    <li><a href="/">首页</a></li>
+                    <li><a href="/shicimark">分类</a></li>
+                    <li><a href="/category/all">作者</a></li>
+                    <li><a href="/paiming">排行榜</a></li>
+                    <li><a href="/cate?cate_id=4">课本古诗</a></li>
+                    <li><a href="/cipai/index.html">词牌名</a></li>
+                    <li><a href="/cangtoushi/index.html">藏头诗</a></li>
+                    <li><a href="/hecheng/index.html">合称</a></li>
+                    <li><a href="/book/">古籍</a></li>
+		    <li><a href="/app/">安卓下载</a></li>
+                </ul>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+        <div id="top_right">
+            <div id="top_right_nav">
+                <ul>
+                    <li><a href="javascript:void(0)" data-cate="all">综合</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="zuozhe">作者</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="title">标题</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="shiju">诗句</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="first">句首</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="end">句尾</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="book">古籍</a> </li>
+                    <li><a href="javascript:void(0)" data-cate="chengyu">成语</a> </li>
+                </ul>
+            </div>
+            <div id="input_div">
+                <input type="text" name="kw" id="search_input" placeholder="" autocomplete="off" value="">
+                <a href="javascript:doSearch();"><img src="https://img.shicimingju.com/public/image/web_search.png" class="www-icon"></a>
+                <div style="clear: both"></div>
+            </div>
+            <div id="tip_result" class="card">
+                <ul>
+                </ul>
+                <div id="tip_content">
+                </div>
+            </div>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+</div>
+
+<div id="nav-top"><a href="/">主页</a><span class="nav-arrow"></span><a href="/category/all">作者大全</a><span class="nav-arrow"></span><a href="/chaxun/zuozhe/77.html">李清照</a></div>
+
+<div id="main">
+    <div id="main_left">
+        <div class="card shici_card">
+            <h1>「李清照」诗词全集(88)首)</h1>
+                        <div style="background: #eee;height: 1px;margin: 10px 0;"></div>
+            <div>
+                <div class="list_num_info">
+                    1                </div>
+                <div class="shici_list_main">
+                    <h3><a href="/chaxun/list/3638.html" target="_blank">《声声慢·寻寻觅觅》</a></h3>
+                    <div class="shici_content">
+                        寻寻觅觅，冷冷清清，凄凄惨惨戚戚。<br />乍暖还寒时候，最难将息。<br />                                                <a href="javascript:void(0)" class="show_more_shici">展开全文</a>
+                        <div style="display: none">
+                            三杯两盏淡酒，怎敌他、晚来风急？<br />雁过也，正伤心，却是旧时相识。<br />满地黄花堆积。憔悴损，如今有谁堪摘？<br />守着窗儿，独自怎生得黑？<br />梧桐更兼细雨，到黄昏、点点滴滴。<br />这次第，怎一个愁字了得！<br />                        </div>
+                        <a href="javascript:void(0)" class="hide_more_shici">收起</a>
+                                            </div>
+                </div>
+                                <div class="shici_list_pic">
+                    <a href="/chaxun/list/3638.html"><img src="/pics/600/600/item/3638.jpg"></a>
+                </div>
+                                <div style="clear: both"></div>
+            </div>
+                        <div style="background: #eee;height: 1px;margin: 10px 0;"></div>
+            <div>
+                <div class="list_num_info">
+                    2                </div>
+                <div class="shici_list_main">
+                    <h3><a href="/chaxun/list/3131.html" target="_blank">《如梦令·常记溪亭日暮》</a></h3>
+                    <div class="shici_content">
+                        常记溪亭日暮，沉醉不知归路，<br />兴尽晚回舟，误入藕花深处。<br />                                                <a href="javascript:void(0)" class="show_more_shici">展开全文</a>
+                        <div style="display: none">
+                            争渡，争渡，惊起一滩鸥鹭。<br />                        </div>
+                        <a href="javascript:void(0)" class="hide_more_shici">收起</a>
+                                            </div>
+                </div>
+                                <div class="shici_list_pic">
+                    <a href="/chaxun/list/3131.html"><img src="/pics/600/600/item/3131.jpg"></a>
+                </div>
+                                <div style="clear: both"></div>
+            </div>
+                        <div style="background: #eee;height: 1px;margin: 10px 0;"></div>
+            <div>
+                <div class="list_num_info">
+                    3                </div>
+                <div class="shici_list_main">
+                    <h3><a href="/chaxun/list/6533.html" target="_blank">《如梦令·昨夜雨疏风骤》</a></h3>
+                    <div class="shici_content">
+                        昨夜雨疏风骤，浓睡不消残酒，试问卷帘人，却道海棠依旧。知否，知否，应是绿肥红瘦。                                            </div>
+                </div>
+                                <div class="shici_list_pic">
+                    <a href="/chaxun/list/6533.html"><img src="/pics/600/600/item/6533.jpg"></a>
+                </div>
+                                <div style="clear: both"></div>
+            </div>
+                        <div style="background: #eee;height: 1px;margin: 10px 0;"></div>
+-----
+同时在网页的较后面部分有下一页的按钮，源码如下：
+-----
+\ <div id="flag"></div>
+        <div id="list_nav">
+                                    <div id="list_nav_part">
+                                                                <a href="/chaxun/zuozhe/77.html" class="list_nav_current" >1</a>
+                                <a href="/chaxun/zuozhe/77_2.html"  >2</a>
+                                <a href="/chaxun/zuozhe/77_3.html"  >3</a>
+                                <a href="/chaxun/zuozhe/77_4.html"  >4</a>
+                                <a href="/chaxun/zuozhe/77_5.html"  >5</a>
+                                                <a href="/chaxun/zuozhe/77_2.html">下一页</a>
+                                            </div>
+                    </div>
+            </div>
+----
+请写一个python爬虫，爬取网页里所有的诗并按照以下格式输出：
+count（输出计数）：昨夜雨疏风骤，浓睡不消残酒，试问卷帘人，却道海棠依旧。知否，知否，应是绿肥红瘦。——
+《如梦令·昨夜雨疏风骤》
+同时如有下一页，自动进入下一页递归爬取。
