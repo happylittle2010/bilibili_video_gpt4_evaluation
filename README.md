@@ -1,7 +1,10 @@
-# bilibili_video_gpt4_evaluation
+# bilibili video gpt4 evaluation
 
-b站视频【GPT4测评：全方位碾压ChatGPT！】里提到的GPT Prompt提示词
+b站视频【GPT4测评：全方位碾压ChatGPT！】里提到的GPT Prompt提示词 
+ 
 https://www.bilibili.com/video/BV12v4y1n7LV
+
+视频里AI配音的所有台词见 **AI配音台词.txt** 文件
 
 ## 模仿《红楼梦》的风格翻译《1984》节选内容
 
