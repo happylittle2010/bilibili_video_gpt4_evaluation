@@ -191,4 +191,3 @@ $(1-\frac{y}{x} )(x+y)^{8}  = (x+y)^{8}-\frac{y}{x}(x+y)^{8}$
 5.已知矩阵$A = \begin{Bmatrix}1 & 2 & -6\\1 & 0 & -3\\1 & 1 & -4\end{Bmatrix}$，求A的Jordan标准型和e^{At} .
 
 6.（此处放你的题目）
-\ 
